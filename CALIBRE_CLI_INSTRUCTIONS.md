@@ -18,11 +18,11 @@ platforms.
   - Add the DeDRM plugin to Calibre:
      ```
      cd *the unzipped DeDRM_tools folder*
-     calibre-customize --add DeDRM_calibre_plugin/DeDRM_plugin.zip
+     calibre-customize --add DeDRM_Plugin.zip
      ```
   - Add the Obok plugin:
     ```
-    calibre-customize --add Obok_calibre_plugin/obok_plugin.zip
+    calibre-customize --add obok_plugin.zip
     ```
 
 #### Enter your keys
